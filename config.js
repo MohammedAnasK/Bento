@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Notion',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.notion.so/GATE-2025-Conducted-by-IIT-Roorkee-f55fb4d7e4a44b36a1cb07a7b119215f',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -156,28 +156,28 @@ const CONFIG = {
 				},
 			],
 		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
-				},
-			],
-		},
+		// {
+		// 	icon: 'coffee',
+		// 	id: '2',
+		// 	links: [
+		// 		{
+		// 			name: 'Linkedin',
+		// 			link: 'https://www.linkedin.com',
+		// 		},
+		// 		{
+		// 			name: 'Dribbble',
+		// 			link: 'https://www.dribbble.com',
+		// 		},
+		// 		{
+		// 			name: 'Trello',
+		// 			link: 'https://www.trello.com',
+		// 		},
+		// 		{
+		// 			name: 'Slack',
+		// 			link: 'https://www.slack.com',
+		// 		},
+		// 	],
+		// },
 	],
 
 	// Second Links Container
